@@ -134,7 +134,37 @@ L'interface utilisateur permet de visualiser les données en temps réel.
 
 ---
 
-## 5. Guide d'Exécution
+## 5. Justifications & Réponses Théoriques
+
+### 5.1 Justifications des Choix Techniques
+Le projet respecte scrupuleusement les patrons d'architecture moderne :
+
+*   **Messagerie Asynchrone (Kafka) :**
+    L'utilisation de Kafka assure un **découplage temporel et spatial** entre le producteur (`ingestion-service`) et le consommateur (`processing-service`).
+    *   *Justification :* Pour l'IoT, où les capteurs envoient des données en continu, bloquer le fil d'exécution pour le traitement (HTTP synchrone) serait catastrophique. Kafka agit comme un tampon (buffer) résilient capable d'absorber des pics de charge sans perte de données.
+
+*   **Service Discovery (Eureka) :**
+    Le registre de services permet une architecture dynamique.
+    *   *Justification :* Dans Docker, les IPs sont volatiles. Eureka permet de router les requêtes via des noms logiques (`lb://ingestion-service`), rendant l'infrastructure élastique (ajout/suppression d'instances sans reconfiguration).
+
+*   **API Gateway (Spring Cloud Gateway) :**
+    Point d'entrée unique du système.
+    *   *Justification :* Elle masque la complexité interne au client (Frontend React). Au lieu d'appeler N services sur N ports, le frontend appelle uniquement la gateway, qui gère le load balancing et la sécurité centralisée.
+
+### 5.2 Réponses aux Questions Théoriques
+
+**Q1 : En quoi l'architecture événementielle favorise-t-elle la scalabilité ?**
+*Réponse :* Elle permet d'ajouter des instances de consommateurs (Consumer Groups) pour paralléliser le traitement d'un même topic sans modifier le producteur. Si la charge augmente, on ajoute simplement des instances de `processing-service`.
+
+**Q2 : Quelle est la différence fondamentale entre un Topic Kafka et une File JMS classique ?**
+*Réponse :* Dans JMS/RabbitMQ, le message est généralement supprimé une fois consommé. Dans Kafka, le message est stocké durablement dans un journal de logs (Commit Log). Les consommateurs ne font que déplacer un curseur (offset). Cela permet de relire les messages passés ou d'avoir plusieurs consommateurs différents lisant les mêmes données à leur propre rythme.
+
+**Q3 : Pourquoi le mode KRaft est-il l'avenir de Kafka ?**
+*Réponse :* Il supprime la dépendance lourde à ZooKeeper pour la gestion des métadonnées. Le contrôleur Kafka gère lui-même le quorum via le protocole Raft, simplifiant le déploiement et la maintenance (une seule binaire à gérer).
+
+---
+
+## 6. Guide d'Exécution
 
 ### Prérequis
 *   Docker Desktop installé et démarré.
@@ -167,7 +197,7 @@ Dès que le simulateur génère une température > 24°C, le log affiche :
 
 ---
 
-## 6. Conclusion
+## 7. Conclusion
 Ce projet a permis de maîtriser les fondamentaux des architectures distribuées :
 1.  **Découplage** fort grâce à Kafka : le producteur ne connait pas le consommateur.
 2.  **Scalabilité** grâce à Eureka et Spring Cloud Gateway.
