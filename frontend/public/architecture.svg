@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Eureka -->
+  <rect x="50" y="50" width="150" height="80" rx="10" fill="#673ab7" stroke="#333" stroke-width="2"/>
+  <text x="125" y="95" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold">Eureka Server</text>
+  
+  <!-- Gateway -->
+  <rect x="300" y="200" width="200" height="100" rx="10" fill="#ff9800" stroke="#333" stroke-width="2"/>
+  <text x="400" y="255" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold">API Gateway</text>
+  
+  <!-- Frontend -->
+  <rect x="50" y="200" width="150" height="100" rx="10" fill="#61dafb" stroke="#333" stroke-width="2"/>
+  <text x="125" y="255" text-anchor="middle" fill="black" font-family="Arial" font-weight="bold">React Frontend</text>
+  
+  <!-- Kafka -->
+  <rect x="600" y="200" width="150" height="300" rx="10" fill="#000" stroke="#333" stroke-width="2"/>
+  <text x="675" y="350" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold">Apache Kafka</text>
+  
+  <!-- Services -->
+  <rect x="350" y="400" width="150" height="60" rx="10" fill="#4caf50" stroke="#333" stroke-width="2"/>
+  <text x="425" y="435" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold">Ingestion</text>
+  
+  <rect x="150" y="400" width="150" height="60" rx="10" fill="#9c27b0" stroke="#333" stroke-width="2"/>
+  <text x="225" y="435" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold">Processing</text>
+  
+  <!-- Arrows -->
+  <line x1="200" y1="250" x2="300" y2="250" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="400" y1="300" x2="425" y2="400" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="430" x2="600" y2="350" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="600" y1="350" x2="300" y2="430" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#333" />
+    </marker>
+  </defs>
+</svg>

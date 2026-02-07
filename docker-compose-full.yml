@@ -1,0 +1,119 @@
+services:
+  # ---------------------------------------------------------------------------
+  # INFRASTRUCTURE (Kafka KRaft)
+  # ---------------------------------------------------------------------------
+  kafka:
+    image: apache/kafka:3.9.0
+    hostname: kafka
+    container_name: kafka
+    ports:
+      - "9092:9092"
+      - "9093:9093"
+    environment:
+      KAFKA_NODE_ID: 1
+      KAFKA_PROCESS_ROLES: broker,controller
+      KAFKA_LISTENERS: PLAINTEXT://:9092,CONTROLLER://:9093
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+      KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:9093
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+      KAFKA_NUM_PARTITIONS: 3
+    networks:
+      - microservice-net
+
+  # ---------------------------------------------------------------------------
+  # PARTIE 1 : APP SIMPLE
+  # ---------------------------------------------------------------------------
+  kafka-app:
+    build: ./kafka/kafka-app
+    container_name: kafka-app-p1
+    ports:
+      - "8085:8080"
+    environment:
+      - SPRING_KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+    depends_on:
+      - kafka
+    networks:
+      - microservice-net
+
+  # ---------------------------------------------------------------------------
+  # PARTIE 2 : INFRASTRUCTURE MICROSERVICES
+  # ---------------------------------------------------------------------------
+  eureka-server:
+    build: ./microservices/eureka-server
+    container_name: eureka-server
+    ports:
+      - "8761:8761"
+    networks:
+      - microservice-net
+
+  api-gateway:
+    build: ./microservices/api-gateway
+    container_name: api-gateway
+    ports:
+      - "8080:8080"
+    environment:
+      - EUREKA_CLIENT_SERVICE_URL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    depends_on:
+      - eureka-server
+    networks:
+      - microservice-net
+
+  # ---------------------------------------------------------------------------
+  # PARTIE 2 : SERVICES METIERS
+  # ---------------------------------------------------------------------------
+  ingestion-service:
+    build: ./microservices/ingestion-service
+    container_name: ingestion-service
+    environment:
+      - EUREKA_CLIENT_SERVICE_URL_DEFAULTZONE=http://eureka-server:8761/eureka/
+      - SPRING_KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+    depends_on:
+      - eureka-server
+      - kafka
+    networks:
+      - microservice-net
+
+  processing-service:
+    build: ./microservices/processing-service
+    container_name: processing-service
+    environment:
+      - EUREKA_CLIENT_SERVICE_URL_DEFAULTZONE=http://eureka-server:8761/eureka/
+      - SPRING_KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+    depends_on:
+      - eureka-server
+      - kafka
+    networks:
+      - microservice-net
+
+  sensor-simulator:
+    build: ./microservices/sensor-simulator
+    container_name: sensor-simulator
+    ports:
+      - "8081:8081"
+    environment:
+      - SIMULATOR_TARGET_URL=http://api-gateway:8080/api/ingestion/data
+    depends_on:
+      - api-gateway
+    networks:
+      - microservice-net
+
+  # ---------------------------------------------------------------------------
+  # FRONTEND
+  # ---------------------------------------------------------------------------
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_API_URL=http://localhost:8080
+    networks:
+      - microservice-net
+
+networks:
+  microservice-net:
+    driver: bridge
