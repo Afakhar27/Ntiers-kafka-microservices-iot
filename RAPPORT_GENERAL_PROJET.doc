@@ -1,0 +1,1977 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=utf-8" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><link rel=File-List  href="RAPPORT_GENERAL_PROJET.files/filelist.xml" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>afakh</o:Author><o:LastAuthor>Ikram Afakhar</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>3</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >1036-12.2.0.23196</o:KSOProductBuildVer><o:ICV dt:dt="string" >B926DA52AC494C468EEB06578DE36BA3_12</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"SimSun";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"Symbol";
+}
+
+@font-face{
+font-family:"Courier New";
+}
+
+@font-face{
+font-family:"Consolas";
+}
+
+@font-face{
+font-family:"Calibri";
+}
+
+@list l0:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l0:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l0:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l0:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l0:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l0:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l0:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l0:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l0:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l1:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l1:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l1:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l1:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l1:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l1:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l1:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l1:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l1:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l2:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l2:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l2:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l2:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l2:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l2:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l2:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l2:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l2:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l3:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l3:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72,0000pt;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:-18,0000pt;tab-stops:blank 72,0000pt ;font-family:'Times New Roman';}
+
+@list l3:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108,0000pt;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:-18,0000pt;tab-stops:blank 108,0000pt ;font-family:'Times New Roman';}
+
+@list l3:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144,0000pt;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:-18,0000pt;tab-stops:blank 144,0000pt ;font-family:'Times New Roman';}
+
+@list l3:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180,0000pt;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:-18,0000pt;tab-stops:blank 180,0000pt ;font-family:'Times New Roman';}
+
+@list l3:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216,0000pt;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:-18,0000pt;tab-stops:blank 216,0000pt ;font-family:'Times New Roman';}
+
+@list l3:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252,0000pt;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:-18,0000pt;tab-stops:blank 252,0000pt ;font-family:'Times New Roman';}
+
+@list l3:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288,0000pt;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:-18,0000pt;tab-stops:blank 288,0000pt ;font-family:'Times New Roman';}
+
+@list l3:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324,0000pt;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:-18,0000pt;tab-stops:blank 324,0000pt ;font-family:'Times New Roman';}
+
+@list l4:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:Symbol;}
+
+@list l4:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Courier New';}
+
+@list l4:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l4:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l4:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l4:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l4:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l4:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l4:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l5:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:Symbol;}
+
+@list l5:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Courier New';}
+
+@list l5:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l5:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l5:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l5:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l5:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l5:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l5:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l6:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:Symbol;}
+
+@list l6:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Courier New';}
+
+@list l6:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l6:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l6:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l6:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l6:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l6:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l6:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l7:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:Symbol;}
+
+@list l7:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Courier New';}
+
+@list l7:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l7:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l7:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l7:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l7:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l7:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l7:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l8:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:Symbol;}
+
+@list l8:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Courier New';}
+
+@list l8:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l8:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l8:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l8:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l8:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l8:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l8:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l9:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:Symbol;}
+
+@list l9:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Courier New';}
+
+@list l9:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l9:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l9:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l9:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l9:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l9:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l9:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l10:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l10:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l10:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l10:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l10:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l10:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l10:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l10:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l10:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:'Times New Roman';}
+
+@list l11:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:0,0000pt;
+font-family:Symbol;}
+
+@list l11:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:0,0000pt;
+font-family:'Courier New';}
+
+@list l11:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l11:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l11:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l11:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l11:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l11:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+@list l11:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:0,0000pt;
+font-family:Wingdings;}
+
+p.MsoNormal{
+mso-style-name:Normal;
+mso-style-parent:"";
+margin-top:0,0000pt;
+margin-right:0,0000pt;
+margin-bottom:0,0000pt;
+margin-left:0,0000pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12,0000pt;
+}
+
+h1{
+mso-style-name:"Titre 1";
+mso-style-next:Normal;
+margin-top:5,0000pt;
+margin-bottom:5,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:SimSun;
+color:rgb(46,116,181);
+font-weight:bold;
+font-size:24,0000pt;
+}
+
+h2{
+mso-style-name:"Titre 2";
+mso-style-next:Normal;
+margin-top:5,0000pt;
+margin-bottom:5,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:SimSun;
+color:rgb(46,116,181);
+font-weight:bold;
+font-size:18,0000pt;
+}
+
+h3{
+mso-style-name:"Titre 3";
+mso-style-next:Normal;
+margin-top:5,0000pt;
+margin-bottom:5,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:SimSun;
+color:rgb(46,116,181);
+font-weight:bold;
+font-size:13,0000pt;
+}
+
+h4{
+mso-style-name:"Titre 4";
+mso-style-next:Normal;
+margin-top:5,0000pt;
+margin-bottom:5,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:SimSun;
+font-weight:bold;
+font-size:12,0000pt;
+}
+
+h5{
+mso-style-name:"Titre 5";
+mso-style-next:Normal;
+margin-top:5,0000pt;
+margin-bottom:5,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:SimSun;
+font-weight:bold;
+font-size:10,0000pt;
+}
+
+h6{
+mso-style-name:"Titre 6";
+mso-style-next:Normal;
+margin-top:5,0000pt;
+margin-bottom:5,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:SimSun;
+font-weight:bold;
+font-size:7,0000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+span.15{
+font-family:SimSun;
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
+span.16{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
+span.17{
+font-family:Consolas;
+background:rgb(245,245,245);
+mso-shading:rgb(245,245,245);
+}
+
+span.18{
+font-family:SimSun;
+font-weight:bold;
+}
+
+span.19{
+font-family:SimSun;
+}
+
+p.pre{
+mso-style-name:"Préformaté HTML";
+margin:0pt;
+margin-bottom:.0001pt;
+tab-stops:left blank 45,8000pt left blank 91,6000pt left blank 137,4000pt left blank 183,2000pt left blank 229,0000pt left blank 274,8000pt left blank 320,6000pt left blank 366,4000pt left blank 412,2000pt left blank 458,0000pt left blank 503,8000pt left blank 549,6000pt left blank 595,4000pt left blank 641,2000pt left blank 687,0000pt left blank 732,8000pt ;
+text-align:left;
+font-family:SimSun;
+font-size:12,0000pt;
+}
+
+p.p{
+mso-style-name:"Normal \(Web\)";
+margin-top:5,0000pt;
+margin-right:0,0000pt;
+margin-bottom:5,0000pt;
+margin-left:0,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+}
+
+p.22{
+mso-style-name:"Préformaté HTML Char";
+margin-top:0,0000pt;
+margin-right:0,0000pt;
+margin-bottom:0,0000pt;
+margin-left:0,0000pt;
+padding:0pt 0pt 0pt 0pt ;
+tab-stops:left blank 45,8000pt left blank 91,6000pt left blank 137,4000pt left blank 183,2000pt left blank 229,0000pt left blank 274,8000pt left blank 320,6000pt left blank 366,4000pt left blank 412,2000pt left blank 458,0000pt left blank 503,8000pt left blank 549,6000pt left blank 595,4000pt left blank 641,2000pt left blank 687,0000pt left blank 732,8000pt ;
+text-align:left;
+background:rgb(245,245,245);
+font-family:SimSun;
+font-size:12,0000pt;
+}
+
+p.23{
+mso-style-name:"Normal \(Web\) Char";
+margin-top:5,0000pt;
+margin-bottom:5,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:"Normal Table";
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0,0000pt 5,4000pt 0,0000pt 5,4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10,0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+
+table.24{
+mso-style-name:"Normal Table Char";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0,0000pt 5,4000pt 0,0000pt 5,4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10,0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+size:595,3000pt 841,9500pt;
+mso-header-margin:42,5500pt;
+mso-footer-margin:49,6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><h1 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(36,63,97);font-weight:bold;font-size:24,0000pt;
+mso-font-kerning:0,0000pt;" >Rapport Complet : Architectures N-Tiers & Microservices IoT</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(36,63,97);font-weight:bold;font-size:24,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h1><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(89,89,89);font-weight:bold;font-size:11,0000pt;" >Universit&#233; Hassan Premier - FST Settat</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(89,89,89);font-size:11,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(89,89,89);font-size:11,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(89,89,89);font-weight:bold;font-size:11,0000pt;" >Module :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(89,89,89);font-size:11,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:11,0000pt;mso-font-kerning:0,0000pt;" >Architectures N-Tiers</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:11,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(89,89,89);font-weight:bold;font-size:11,0000pt;" >R&#233;alis&#233; par :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(89,89,89);font-size:11,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:11,0000pt;mso-font-kerning:0,0000pt;" >Ikram Afakhar </span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:11,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(89,89,89);font-weight:bold;font-size:11,0000pt;" >D&#233;p&#244;t GitHub :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:11,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;</span><span><a href="https://github.com/Afakhar27/Ntiers-kafka-microservices-iot.git" ><u><span class="16"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(0,0,255);text-decoration:underline;text-underline:single;
+font-size:11,0000pt;" >https://github.com/Afakhar27/Ntiers-kafka-microservices-iot.git</span></u></a></span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:11,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><hr size="2"  width="100%"  align=center ></p><h2 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" >1. Introduction G&#233;n&#233;rale</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h2><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:10,5000pt;mso-font-kerning:0,0000pt;" >Ce projet vise &#224; mettre en &#339;uvre une architecture distribu&#233;e moderne et r&#233;siliente. Il se divise en deux parties compl&#233;mentaires :</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:10,5000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;font-size:14,0000pt;" ><span style='mso-list:Ignore;' >1.<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:14,0000pt;" >Architecture de Messagerie (Partie 1)</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:14,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;: Impl&#233;mentation de patterns de communication asynchrone robustes avec Apache Kafka (mode KRaft), gestion de la s&#233;rialisation JSON et du polymorphisme d'&#233;v&#233;nements.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:14,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;font-size:14,0000pt;" ><span style='mso-list:Ignore;' >2.<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:14,0000pt;" >Architecture Microservices IoT (Partie 2)</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:14,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;: Conception d'un syst&#232;me complet de capteurs connect&#233;s utilisant l'&#233;cosyst&#232;me Spring Cloud (Eureka, Gateway) pour l'ingestion, le traitement et la visualisation de donn&#233;es temps r&#233;el.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:14,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><hr size="2"  width="100%"  align=center ></p><h2 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" >2. Technologies Utilis&#233;es</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h2><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >Backend & Infrastructure</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l7 level1 lfo2;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Langage :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Java 17</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l7 level1 lfo2;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Framework :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Spring Boot 3.x (Web, Kafka)</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l7 level1 lfo2;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Cloud :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Spring Cloud (Netflix Eureka, Gateway)</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l7 level1 lfo2;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Messaging :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Apache Kafka 3.9.0 (Mode KRaft sans ZooKeeper)</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l7 level1 lfo2;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Conteneurisation :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Docker & Docker Compose</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >Frontend</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l4 level1 lfo3;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Framework :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;React.js</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l4 level1 lfo3;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Visualisation :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Recharts (Graphiques temps r&#233;el)</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l4 level1 lfo3;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Styling :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Material UI</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><hr size="2"  width="100%"  align=center ></p><h2 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" >3. Partie 1 : Messagerie Avanc&#233;e avec Kafka</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h2><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:10,5000pt;mso-font-kerning:0,0000pt;" >Cette partie se concentre sur la communication asynchrone entre producteurs et consommateurs.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:10,5000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >3.1 Installation Kafka (Mode KRaft)</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >Nous avons utilis&#233; le mode </span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >KRaft (Kafka Raft Metadata)</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >&nbsp;qui supprime la d&#233;pendance &#224; ZooKeeper.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l5 level1 lfo4;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >UUID du cluster :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;G&#233;n&#233;r&#233; via </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >kafka-storage random-uuid</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l5 level1 lfo4;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >R&#244;le Node :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Le n&#339;ud agit en tant que </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >broker,controller</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;combin&#233;.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >3.2 Fonctionnalit&#233;s D&#233;velopp&#233;es</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l10 level1 lfo5;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >1.<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Messages Simples :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;&#201;change de cha&#238;nes de caract&#232;res (</span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >StringSerializer</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >).</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l10 level1 lfo5;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >2.<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Objets JSON :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;S&#233;rialisation automatique de DTOs (</span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >NotificationEvent</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >).</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l10 level1 lfo5;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >3.<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Polymorphisme :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Gestion d'&#233;v&#233;nements multiples (</span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >UserRegisteredEvent</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >OrderCreatedEvent</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >) sur un topic unique.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >3.3 Explication du Code (Backend)</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Gestion du Polymorphisme :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >&nbsp;Pour permettre &#224; un consommateur de distinguer les types d'&#233;v&#233;nements re&#231;us sur un m&#234;me topic, nous avons utilis&#233; une configuration hybride Jackson/Spring Kafka.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l3 level1 lfo6;" ><![if !supportLists]><span style="font-family:Wingdings;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#108;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >DTO Parent (</span></b><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >BaseEvent</span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >) :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >&nbsp;Utilisation des annotations Jackson pour inclure une propri&#233;t&#233; discriminante "type" dans le JSON.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >@JsonTypeInfo(use = JsonTypeInfo.Id.NAME, property = "type")</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;
+background:rgb(245,245,245);mso-shading:rgb(245,245,245);" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >@JsonSubTypes({</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;
+background:rgb(245,245,245);mso-shading:rgb(245,245,245);" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >&nbsp;&nbsp;&nbsp;&nbsp;@JsonSubTypes.Type(value = UserRegisteredEvent.class, name = "user"),</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;
+background:rgb(245,245,245);mso-shading:rgb(245,245,245);" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >&nbsp;&nbsp;&nbsp;&nbsp;@JsonSubTypes.Type(value = OrderCreatedEvent.class, name = "order")</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;
+background:rgb(245,245,245);mso-shading:rgb(245,245,245);" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >})</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;
+background:rgb(245,245,245);mso-shading:rgb(245,245,245);" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >public abstract class BaseEvent { ... }</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l3 level1 lfo6;" ><![if !supportLists]><span style="font-family:Wingdings;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#108;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Configuration Kafka (</span></b><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >KafkaConfig</span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >) :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >&nbsp;Nous utilisons </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >JsonSerializer.TYPE_MAPPINGS</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >&nbsp;pour mapper les classes Java &#224; des alias dans les en-t&#234;tes Kafka (</span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >__TypeId__</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >).</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >props.put(JsonSerializer.TYPE_MAPPINGS, </span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;
+background:rgb(245,245,245);mso-shading:rgb(245,245,245);" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >&nbsp;&nbsp;&nbsp;&nbsp;"user:com.example.kafkaapp.dto.polymorphic.UserRegisteredEvent," +</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;
+background:rgb(245,245,245);mso-shading:rgb(245,245,245);" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >&nbsp;&nbsp;&nbsp;&nbsp;"order:com.example.kafkaapp.dto.polymorphic.OrderCreatedEvent");</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;
+background:rgb(245,245,245);mso-shading:rgb(245,245,245);" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >props.put(JsonDeserializer.TRUSTED_PACKAGES, "com.example.kafkaapp.dto.*");</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l3 level1 lfo6;" ><![if !supportLists]><span style="font-family:Wingdings;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#108;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Consommateur (</span></b><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >PolymorphicConsumer</span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >) :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >&nbsp;Le listener re&#231;oit le type abstrait </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >BaseEvent</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >&nbsp;et traite l'objet selon son instance r&#233;elle. </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >java @KafkaListener(topics = "polymorphic-events", ...) public void listen(BaseEvent event) { if (event instanceof UserRegisteredEvent) { ... } else if (event instanceof OrderCreatedEvent) { ... } } </span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><hr size="2"  width="100%"  align=center ></p><h2 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" >4. Partie 2 : Microservices IoT</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h2><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >Architecture r&#233;active capable de g&#233;rer un flux de donn&#233;es capteurs.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >4.1 Architecture Globale</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=MsoNormal ><img width="589"  height="382"  src="RAPPORT_GENERAL_PROJET.files/RAPPORT_GENERAL_PROJET3425.png" ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p>&nbsp;</o:p></span></p><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >4.2 Composants Backend (Microservices)</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" ><span style="mso-tab-count:1" > </span>1. Eureka Server (</span></b><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >eureka-server</span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >) :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo7;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Annuaire de services permettant aux microservices de se d&#233;couvrir dynamiquement sans IP fixes.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo7;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Annotation : </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >@EnableEurekaServer</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >2. API Gateway (</span></b><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >api-gateway</span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >) :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo8;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Point d'entr&#233;e unique. Redirige les requ&#234;tes HTTP externes vers les services internes.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo8;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Routage Dynamique :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Utilise </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >DiscoveryClient</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;pour router </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >/api/ingestion/**</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;vers </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >lb://ingestion-service</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >3. Sensor Simulator (</span></b><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >sensor-simulator</span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >) :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo9;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Service autonome g&#233;n&#233;rant des donn&#233;es al&#233;atoires toutes les 5 secondes via </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >@Scheduled</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo9;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Envoie des requ&#234;tes POST &#224; la Gateway.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >4. Ingestion Service (</span></b><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >ingestion-service</span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >) :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo10;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Expose une API REST </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >/data</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo10;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Valide les donn&#233;es et agit comme </span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Producteur Kafka</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;vers le topic </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >temperature-readings</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >5. Processing Service (</span></b><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >processing-service</span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >) :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo11;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Consommateur Kafka</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo11;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Logique m&#233;tier : Si </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >temp&#233;rature &gt; 24&#176;C</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, d&#233;clenche une </span><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >ALERTE CRITIQUE</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l6 level2 lfo11;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Ceci assure le d&#233;couplage : le traitement peut &#234;tre lent sans ralentir l'ingestion.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >4.3 Frontend (React)</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >L'interface utilisateur permet de visualiser les donn&#233;es en temps r&#233;el.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l9 level1 lfo12;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Composants :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l9 level2 lfo13;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:Consolas;color:rgb(51,51,51);
+background:rgb(245,245,245);mso-shading:rgb(245,245,245);" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >IoTDashboard.jsx</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;: R&#233;cup&#232;re l'historique des temp&#233;ratures via l'API.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l9 level2 lfo13;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:Consolas;color:rgb(51,51,51);
+background:rgb(245,245,245);mso-shading:rgb(245,245,245);" ><span style='mso-list:Ignore;' >o<span>&nbsp;</span></span></span><![endif]><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >ServiceStatus.jsx</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;: Affiche l'&#233;tat des services.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l9 level1 lfo12;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Flux :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Appelle </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >http://localhost:8080/api/ingestion/data</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;(via proxy Gateway) pour afficher la courbe de temp&#233;rature et la liste des alertes.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><hr size="2"  width="100%"  align=center ></p><h2 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" >5. Guide d'Ex&#233;cution</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h2><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >Pr&#233;requis</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l8 level1 lfo14;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Docker Desktop install&#233; et d&#233;marr&#233;.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >Lancement Automatique (Recommand&#233;)</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >Nous avons cr&#233;&#233; une configuration Docker Compose unifi&#233;e pour lancer les deux parties (Kafka App + Microservices).</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l1 level1 lfo15;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >1.<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Ouvrir un terminal &#224; la racine du projet.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l1 level1 lfo15;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >2.<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Ex&#233;cuter la commande : </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >bash docker-compose -f docker-compose-full.yml up --build -d </span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >V&#233;rification du fonctionnement</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l11 level1 lfo16;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Frontend :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Acc&#233;der &#224; </span><span><a href="http://localhost:3000" ><u><span class="16"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(0,0,255);text-decoration:underline;text-underline:single;" >http://localhost:3000</span></u></a></span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >. Vous verrez le graphique des temp&#233;ratures se mettre &#224; jour toutes les 5 secondes.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l11 level1 lfo16;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Eureka Dashboard :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;</span><span><a href="http://localhost:8761" ><u><span class="16"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(0,0,255);text-decoration:underline;text-underline:single;" >http://localhost:8761</span></u></a></span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >. V&#233;rifiez que </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >API-GATEWAY</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >INGESTION-SERVICE</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, et </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >PROCESSING-SERVICE</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;sont enregistr&#233;s.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l11 level1 lfo16;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >&#183;<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Tests Manuels (Partie 1) :</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;</span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >bash # Test Polymorphisme curl -X POST -H "Content-Type: application/json" -d '{"type":"user","username":"TestUser","eventId":"uuid","timestamp":"2026-02-07T12:00:00Z"}' http://localhost:8085/api/events/user-registered </span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >Logs et Alertes</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >Pour v&#233;rifier le traitement critique (Partie 2) :</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=22  style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >docker logs -f processing-service</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >D&#232;s que le simulateur g&#233;n&#232;re une temp&#233;rature &gt; 24&#176;C, le log affiche : </span><span class="17"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:Consolas;
+color:rgb(51,51,51);background:rgb(245,245,245);mso-shading:rgb(245,245,245);" >ALERTE CRITIQUE : Temp&#233;rature &#233;lev&#233;e d&#233;tect&#233;e sur le capteur TEMP-001 : 24.x&#176;C</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><hr size="2"  width="100%"  align=center ></p><h2 style="mso-pagination:widow-orphan;line-height:12,0000pt;" ><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" >6. Conclusion</span></b><b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(46,116,181);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h2><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >Ce projet a permis de ma&#238;triser les fondamentaux des architectures distribu&#233;es :</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l2 level1 lfo17;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >1.<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >D&#233;couplage</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;fort gr&#226;ce &#224; Kafka : le producteur ne connait pas le consommateur.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l2 level1 lfo17;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >2.<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Scalabilit&#233;</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;gr&#226;ce &#224; Eureka et Spring Cloud Gateway.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5,0000pt;margin-bottom:5,0000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;
+line-height:12,0000pt;mso-list:l2 level1 lfo17;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:SimSun;color:rgb(51,51,51);
+font-weight:bold;" ><span style='mso-list:Ignore;' >3.<span>&nbsp;</span></span></span><![endif]><b><span class="18"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;" >Robustesse</span></b><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;: Le syst&#232;me continue d'ing&#233;rer des donn&#233;es m&#234;me si le service de traitement (Processing) est temporairement indisponible.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=23  style="margin-right:0,0000pt;margin-left:0,0000pt;mso-pagination:widow-orphan;
+line-height:12,0000pt;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >Le code source complet est disponible sur GitHub : </span><span><a href="https://github.com/Afakhar27/Ntiers-kafka-microservices-iot.git" ><u><span class="16"  style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(0,0,255);text-decoration:underline;text-underline:single;" >Lien du d&#233;p&#244;t</span></u></a></span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:SimSun;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>

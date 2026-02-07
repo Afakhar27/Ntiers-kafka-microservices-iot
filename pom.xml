@@ -10,11 +10,11 @@
     <name>Microservice Project Root</name>
 
     <modules>
-        <module>Kafka/kafka-app</module>
-        <module>Microservices/eureka-server</module>
-        <module>Microservices/api-gateway</module>
-        <module>Microservices/ingestion-service</module>
-        <module>Microservices/processing-service</module>
-        <module>Microservices/sensor-simulator</module>
+        <module>kafka/kafka-app</module>
+        <module>microservices/eureka-server</module>
+        <module>microservices/api-gateway</module>
+        <module>microservices/ingestion-service</module>
+        <module>microservices/processing-service</module>
+        <module>microservices/sensor-simulator</module>
     </modules>
 </project>
