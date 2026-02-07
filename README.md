@@ -32,6 +32,3 @@ Dossier : `Partie2-Microservices/`
 3.  **Partie 2** :
     *   Assurez-vous que Kafka tourne.
     *   Lancez les projets dans l'ordre : Eureka -> Gateway -> Services Applicatifs -> Simulateur.
-
-## Note sur le Rapport PDF
-Les rapports sont fournis au format Markdown (`.md`). Vous pouvez les convertir en PDF en utilisant la fonctionnalité d'impression de votre éditeur ou une extension Markdown-to-PDF.
