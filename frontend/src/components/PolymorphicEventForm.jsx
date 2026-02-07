@@ -22,9 +22,16 @@ export default function PolymorphicEventForm() {
     setFeedback("");
     try {
       if (type === "user") {
-        await api.post("/api/events/user-registered", { username: fields.username });
+        await api.post("/api/events/user-registered", {
+          type: "user",
+          username: fields.username 
+        });
       } else {
-        await api.post("/api/events/order-created", { orderId: fields.orderId, amount: fields.amount });
+        await api.post("/api/events/order-created", { 
+          type: "order",
+          orderId: fields.orderId, 
+          amount: fields.amount 
+        });
       }
       setFeedback("Evénement envoyé !");
       setFields({ username: "", orderId: "", amount: "" });

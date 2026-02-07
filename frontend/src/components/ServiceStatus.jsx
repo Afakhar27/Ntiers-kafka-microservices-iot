@@ -18,16 +18,16 @@ export default function ServiceStatus() {
   useEffect(() => {
     const fetchStatus = async () => {
       setLoading(true);
-      const newStatus = {};
-      for (const s of services) {
-        try {
-          const res = await api.get(s.endpoint);
-          newStatus[s.name] = res.data.status || "OK";
-        } catch {
-          newStatus[s.name] = "KO";
-        }
+      try {
+        const res = await api.get("/api/status");
+        setStatus(res.data);
+      } catch (e) {
+        console.error("Erreur lors de la récupération des statuts", e);
+        // Fallback: mark all as KO if gateway is unreachable
+        const offline = {};
+        services.forEach(s => offline[s.name] = "KO");
+        setStatus(offline);
       }
-      setStatus(newStatus);
       setLoading(false);
     };
     fetchStatus();

@@ -2,6 +2,7 @@ import React from "react";
 import MessageSender from "../components/MessageSender";
 import NotificationEventForm from "../components/NotificationEventForm";
 import PolymorphicEventForm from "../components/PolymorphicEventForm";
+import ReceivedMessages from "../components/ReceivedMessages";
 import { Box, Typography } from "@mui/material";
 
 export default function MessagingDemo() {
@@ -11,7 +12,7 @@ export default function MessagingDemo() {
       <MessageSender />
       <NotificationEventForm />
       <PolymorphicEventForm />
-      {/* TODO: Ajouter affichage des messages reçus si API disponible */}
+      <ReceivedMessages />
     </Box>
   );
 }
